@@ -1,0 +1,47 @@
+{
+  "fecha_reporte": "26-09-2026 22:41:48",
+  "total_facturado": 5629.76,
+  "num_transacciones": 14,
+  "ticket_medio": 402.13,
+  "clientes_unicos": [
+    "María López",
+    "Carlos Ruiz",
+    "Pedro Ruiz",
+    "Jorge Díaz",
+    "Luis Pérez",
+    "Ana García",
+    "Sara Torres"
+  ],
+  "por_categoria": {
+    "electrónica": {
+      "total": 4583.879999999999,
+      "transacciones": 7
+    },
+    "ropa": {
+      "total": 566.91,
+      "transacciones": 4
+    },
+    "calzado": {
+      "total": 318.99,
+      "transacciones": 2
+    },
+    "accesorios": {
+      "total": 159.98,
+      "transacciones": 1
+    }
+  },
+  "top_3_productos": [
+    {
+      "producto": "Laptop Pro 15",
+      "total": 2599.98
+    },
+    {
+      "producto": "Portátil Air",
+      "total": 999.0
+    },
+    {
+      "producto": "Monitor 4K",
+      "total": 449.0
+    }
+  ]
+}

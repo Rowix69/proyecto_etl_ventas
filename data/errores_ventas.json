@@ -1,0 +1,14 @@
+[
+  {
+    "fila": 9,
+    "error": "Producto vacío",
+    "datos": {
+      "fecha": "2024-03-15",
+      "producto": "",
+      "categoria": "ropa",
+      "cantidad": "3",
+      "precio_unitario": "34.99",
+      "cliente": "Carlos Ruiz"
+    }
+  }
+]
